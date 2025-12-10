@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Ramlah
 
-<!--
-**Raamlaah/Raamlaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security Researcher | Smart Contract Analyst | Web3 Enthusiast 
 
-Here are some ideas to get you started:
+I’m deeply invested in understanding how smart contracts break, why they break & how to prevent those failures. I spend most of my time researching vulnerabilities, writing queries, reproducing bugs with Foundry & improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is --> contribute to a safer blockchain ecosystem.
+
+### 🔍 What I’m Learning and Working On
+* Smart contract auditing using Foundry, Slither and Aderyn
+* Contributing to Web3 security communities
+* Following latest exploits and security research
+* Reproducing real-world vulnerabilities
+
+### 🧰 Tech Stack
+#### Languages
+* Solidity
+* Python
+* JavaScript (basics)
+
+#### Tools & Frameworks
+* Foundry
+* Slither
+* Git & GitHub
+* Aderyn
+* VS Code
+
+### 📌 Featured Work
+
+### 📫 Contact
+* Twitter/X: https://x.com/Raamlaah
+* TG: [t.me/Raamlaah](https://t.me/Raamlaah)
+  
